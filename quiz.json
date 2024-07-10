@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of historical masterpieces with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who painted the Mona Lisa?",
+      "answers": ["Da Vinci", "Michelangelo", "Raphael"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Where is the statue of David?",
+      "answers": ["Florence", "Rome", "Paris"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who sculpted The Thinker?",
+      "answers": ["Rodin", "Bernini", "Donatello"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted The Last Supper?",
+      "answers": ["Da Vinci", "Michelangelo", "Raphael"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is The Starry Night?",
+      "answers": ["Painting", "Sculpture", "Mosaic"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted The Persistence of Memory?",
+      "answers": ["Dali", "Picasso", "Monet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted The Scream?",
+      "answers": ["Munch", "Klimt", "Hopper"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sculpted Pieta?",
+      "answers": ["Michelangelo", "Donatello", "Bernini"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Taj Mahal?",
+      "answers": ["Mausoleum", "Temple", "Castle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who built the Eiffel Tower?",
+      "answers": ["Eiffel", "Haussmann", "Louvre"],
       "correctAnswerIndex": 0
     }
   ]
